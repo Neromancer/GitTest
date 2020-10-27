@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "Summator.h"
+#include "./Calc/Summator.h"
 
 int main() {
     Summator s;
